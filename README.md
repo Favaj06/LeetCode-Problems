@@ -8,6 +8,7 @@ Performances
 | ------- |
 | [0002-add-two-numbers](https://github.com/Favaj06/Favaj06-1/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Favaj06/Favaj06-1/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Favaj06/Favaj06-1/tree/master/0009-palindrome-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Favaj06/Favaj06-1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Greedy
 |  |

@@ -20,6 +20,7 @@ Performances
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Favaj06/Favaj06-1/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Favaj06/Favaj06-1/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -28,4 +29,12 @@ Performances
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Favaj06/Favaj06-1/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Favaj06/Favaj06-1/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Favaj06/Favaj06-1/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

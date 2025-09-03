@@ -25,6 +25,7 @@ Performances
 | [0004-median-of-two-sorted-arrays](https://github.com/Favaj06/Favaj06-1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Favaj06/Favaj06-1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Favaj06/Favaj06-1/tree/master/0015-3sum) |
+| [2058-concatenation-of-array](https://github.com/Favaj06/Favaj06-1/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,8 @@ Performances
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Favaj06/Favaj06-1/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Favaj06/Favaj06-1/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->

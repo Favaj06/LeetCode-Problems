@@ -11,6 +11,7 @@ Performances
 | [0009-palindrome-number](https://github.com/Favaj06/Favaj06-1/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Favaj06/Favaj06-1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Favaj06/Favaj06-1/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Favaj06/Favaj06-1/tree/master/0189-rotate-array) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Favaj06/Favaj06-1/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Favaj06/Favaj06-1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Greedy
@@ -25,6 +26,7 @@ Performances
 | [0004-median-of-two-sorted-arrays](https://github.com/Favaj06/Favaj06-1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Favaj06/Favaj06-1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Favaj06/Favaj06-1/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/Favaj06/Favaj06-1/tree/master/0189-rotate-array) |
 | [2058-concatenation-of-array](https://github.com/Favaj06/Favaj06-1/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -71,6 +73,7 @@ Performances
 | [0005-longest-palindromic-substring](https://github.com/Favaj06/Favaj06-1/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Favaj06/Favaj06-1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Favaj06/Favaj06-1/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/Favaj06/Favaj06-1/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
